@@ -70,7 +70,7 @@ module.exports.saveTokenNRespond = saveTokenNRespond;
 var signup = function (req, res) {
     // Init user and add missing fields
     var user = new User(req.body);
-    user.dob = new Date();  //harcoded
+    // user.dob = new Date();  //harcoded
     console.log(user)
     // Then save the user
     user.save(function (err) {
