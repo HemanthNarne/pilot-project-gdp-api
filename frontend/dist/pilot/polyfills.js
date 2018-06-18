@@ -5473,7 +5473,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Class Work\3rd sem\GDP\pilot-project-gdp-api\frontend\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\S530468\Desktop\Workshop\pilot-project-gdp-api\frontend\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
